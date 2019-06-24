@@ -7,6 +7,7 @@ build/
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 
+
 # Gradle files
 .gradle/
 
@@ -15,6 +16,7 @@ build/
 
 # User-specific configurations
 *.iml
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -38,3 +40,4 @@ google-services.json
 
 # Version control
 vcs.xml
+
